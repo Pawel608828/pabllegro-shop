@@ -1,1 +1,3 @@
 https://pabllegro-shop.vercel.app/
+NIE MA POLACZENIA Z BAZĄ DANYCH NA STRONIE
+ALE LOKALNIE ZADZIAŁA
